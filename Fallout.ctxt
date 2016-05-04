@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fallout()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=chance
+comment2.target=void\ randomEncounter(int)
+comment3.params=
+comment3.target=void\ startCombat()
+numComments=4
